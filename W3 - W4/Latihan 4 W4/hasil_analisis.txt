@@ -1,0 +1,17 @@
+=== HASIL TEXT ANALYZER ===
+Jumlah kata          : 96
+Jumlah kata unik     : 60
+Jumlah kalimat       : 10
+Jumlah paragraf      : 1
+
+10 kata terbanyak:
+- jumlah: 8
+- kata: 7
+- teks: 5
+- yang: 5
+- paragraf: 4
+- analisis: 3
+- program: 3
+- python: 2
+- artikel: 2
+- dari: 2

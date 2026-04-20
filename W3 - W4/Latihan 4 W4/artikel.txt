@@ -1,0 +1,24 @@
+Laporan 1 halaman untuk tugas nomor 4
+Judul
+Analisis Teks Menggunakan Python Text Analyzer
+Objek Analisis
+Artikel berita / teks panjang yang berisi beberapa paragraf.
+Metode
+Teks dibaca dari file, lalu dilakukan normalisasi. 
+Setelah itu program menghitung:
+jumlah kata
+jumlah kata unik
+jumlah kalimat
+jumlah paragraf
+10 kata yang paling sering muncul
+Hasil
+Isi dengan angka dari output program kamu:
+Jumlah kata: ...
+Jumlah kata unik: ...
+Jumlah kalimat: ...
+Jumlah paragraf: ...
+Kata terbanyak: ...
+Kesimpulan
+Teks yang dianalisis memiliki struktur paragraf yang jelas. 
+Kata yang paling sering muncul menunjukkan topik utama artikel. 
+Program Python membantu mempercepat analisis teks secara otomatis.
